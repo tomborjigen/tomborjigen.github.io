@@ -5,7 +5,7 @@ web page
 # header 1
 
 ### header 3
-<div align="center">
+<div style="max_width: 600px; margin: 0 auto">
   
 github is lit yo! I'm skylar white yo!
 
